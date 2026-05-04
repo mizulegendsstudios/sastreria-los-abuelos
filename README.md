@@ -4,7 +4,7 @@
 
 **Sastrería Los Abuelos** is a fully responsive, single‑page website for a premium tailor shop in Panama. It combines a classic, elegant design with modern web technologies to showcase bespoke suits, custom shirts, alterations, and image consulting services.
 
-🔗 **Live Demo:** ![Link]([https://github.com/mizulegendsstudios/sastrerialosabuelos/blob/main/src/images/losabueloslogo%20.png?raw=true](https://mizulegendsstudios.github.io/sastrerialosabuelos/))
+🔗 **Live Demo:** https://mizulegendsstudios.github.io/sastrerialosabuelos/
 
 ---
 
@@ -167,5 +167,3 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 ---
 
 👔 *Handcrafted with care, just like a bespoke suit.*  
-🌐 [sastrerialosabuelos.com](https://sastrerialosabuelos.com) (if active)  
-📧 info@sastreriaexclusiva.com
